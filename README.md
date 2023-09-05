@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tobias Tophøj Johnsen</h1>
 <h3 align="center">A passionated cs student from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zogrethrow&label=Profile%20views&color=0e75b6&style=flat" alt="zogrethrow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zogrethrow&label=Profile%20views&color=0e75b6&style=flat" alt="zogrethrow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zogrethrow&theme=discord&column=3&margin-w=15&margin-h=15" alt="zogrethrow" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zogrethrow&theme=discord&column=3&margin-w=15&margin-h=15" alt="zogrethrow" /></a> </p>
 
 - 🌱 I’m studying **Computer Science at Aarhus University**
 
@@ -34,6 +34,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zogrethrow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zogrethrow" /></a></p><br><br>
 <div style="width=100%">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zogrethrow&show_icons=true&locale=en" alt="zogrethrow" /></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&" alt="zogrethrow" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=zogrethrow&show_icons=true&locale=en" alt="zogrethrow" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&" alt="zogrethrow" /></p>
 </div>
