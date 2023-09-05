@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tobias Tophøj Johnsen</h1>
+<h1 align="center">Hi 👋, I'm Tobias Tophøj Johansen</h1>
 <h3 align="center">A passionated cs student from Denmark</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zogrethrow&label=Profile%20views&color=0e75b6&style=flat" alt="zogrethrow" /> </p>
