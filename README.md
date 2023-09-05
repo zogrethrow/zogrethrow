@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zogrethrow&label=Profile%20views&color=0e75b6&style=flat" alt="zogrethrow" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zogrethrow&theme=discord&column=3&margin-w=15&margin-h=15" alt="zogrethrow" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zogrethrow&theme=discord&column=3&margin-w=15&margin-h=15&no-frame=true" alt="zogrethrow" /></a> </p>
 
 - 🌱 I’m studying **Computer Science at Aarhus University**
 
