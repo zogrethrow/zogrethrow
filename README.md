@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zogrethrow&label=Profile%20views&color=0e75b6&style=flat" alt="zogrethrow" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zogrethrow&theme=discord&column=3&margin-w=15&margin-h=15&no-frame=true" alt="zogrethrow" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zogrethrow&theme=onedark&column=3&margin-w=15&margin-h=15&no-frame=true" alt="zogrethrow" /></a> </p>
 
 - 🌱 I’m studying **Computer Science at Aarhus University**
 
@@ -33,8 +33,9 @@
 
 <h3 align="left">Stats:</h3>
 <p align="center">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=zogrethrow&show_icons=true&locale=en&theme=discord-old-blurple" alt="zogrethrow" />
-  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&theme=discord-old-blurple" alt="zogrethrow" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=zogrethrow&show_icons=true&locale=en&theme=onedark" alt="zogrethrow" />
+</br>
+  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&theme=onedark" alt="zogrethrow" />
 </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zogrethrow"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zogrethrow" /></a></p>
