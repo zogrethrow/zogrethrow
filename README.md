@@ -33,9 +33,9 @@
 
 <h3 align="left">Stats:</h3>
 <p align="center">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=zogrethrow&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="zogrethrow" />
+  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=zogrethrow&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="zogrethrow" />
 </br>
-  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&theme=onedark&hide_border=true" alt="zogrethrow" />
+  <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&theme=onedark&hide_border=true" alt="zogrethrow" />
 </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zogrethrow"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zogrethrow" /></a></p>
