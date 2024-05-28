@@ -7,7 +7,7 @@
 
 - 🌱 I’m studying **Computer Science at Aarhus University**
 
-- 📖 I'm currently learning **Java**
+- 📖 I'm currently learning **Scala**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zogrethrow](https://github.com/zogrethrow)
 
