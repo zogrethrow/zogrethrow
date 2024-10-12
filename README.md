@@ -37,5 +37,5 @@
 </br>
   <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zogrethrow&theme=onedark&hide_border=true" alt="zogrethrow" />
 </p>
-<h3 align="left">Support:</h3>
+<h3 align="left">Fuel My Coffee Addiction:</h3>
 <p><a href="https://www.buymeacoffee.com/zogrethrow"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zogrethrow" /></a></p>
